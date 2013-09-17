@@ -1,7 +1,7 @@
 {
   "name": "ember-table-shim",
   "version": "0.2.0",
-  "description": "Shim for table built using Ember.js that lazily renders rows.",
+  "description": "Shim for ember table.",
   "main": "ember-table.js",
   "keywords": [
     "ember",
